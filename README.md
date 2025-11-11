@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 ¡Hola, soy Gabriela Valiente!</h1>
-<h3 align="center">💻 Estudiante de Ingeniería Informática | Desarrolladora Full Stack | Apasionada por la tecnología y el arte</h3>
+<h3 align="center">💻 Estudiante de Ingeniería Informática | Apasionada por la tecnología y el arte</h3>
 
 ---
 
