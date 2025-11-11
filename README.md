@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/zr7hYb8.png" width="100%" alt="Banner Gabriela Valiente">
-</p>
 
 <h1 align="center">👋 ¡Hola, soy Gabriela Valiente!</h1>
 <h3 align="center">💻 Estudiante de Ingeniería Informática | Desarrolladora Full Stack | Apasionada por la tecnología y el arte</h3>
@@ -26,7 +22,7 @@
 
 #### 🧰 Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,docker,git,postman,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,figma,notion" />
 </p>
 
 ---
@@ -86,10 +82,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gvaliente04&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gvaliente04&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-### 🎨 Frase favorita
-> “La tecnología y el arte no son opuestos; juntos crean el futuro.”
 
 ---
