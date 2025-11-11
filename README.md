@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 ¡Hola, soy Gabriela Valiente!</h1>
-<h3 align="center">💻 Estudiante de Ingeniería Informática | Apasionada por la tecnología y diseños</h3>
+<h3 align="center">💻 Estudiante de Ingeniería Informática | Desarrolladora | Apasionada por la tecnología y el diseños</h3>
 
 ---
 
@@ -71,16 +71,16 @@
 ### 🌐 Conecta conmigo
 <p align="left">
   <a href="mailto:gvaliente2004@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/gvaliente04"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabriela-valiente-9ba278398?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gabrielavaliente"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### ✨ Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gvaliente04&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gvaliente04&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielavaliente&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielavaliente&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
